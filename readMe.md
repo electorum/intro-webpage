@@ -8,7 +8,7 @@ There are also some unordered lists on the "interests" page, I just removed the 
 
 
 Index (landing) Page:
-<img src="https://drive.google.com/file/d/1ginyHCzvbbSM7OvnkDUWGDSIkd-4MHEL/view?usp=sharing"
+<img src="https://drive.google.com/file/d/1ginyHCzvbbSM7OvnkDUWGDSIkd-4MHEL/view"
      style="float: left; margin-right: 10px;" />
      
      
